@@ -2,7 +2,7 @@ first_name = 'chasa potrebovalos na'
 second_name= ' domashnih zadani , po'
 third_name = 'minut na kazdoe.'
 name=1.5    # часа на 12 ДЗ
-mane=12     # шт ДЗ
+mane=12.0     # шт ДЗ
 print(name/mane)
 print((name*60.0)*0.125) # минут на одно ДЗ
 weve=11.25
